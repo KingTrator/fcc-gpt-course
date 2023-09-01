@@ -1,0 +1,11 @@
+Libraries: Matplotlib, Numpy, PyTorch, pylzma, ipykernel, jupyter 
+App: Download Visual Studio with C++ features (although you're not going to directly use it)
+Command Prompt: Install Anaconda (it already includes most of the libraries quoted)
+Language: Python 3.9 +
+Important: To avoid long time while building the LLM, use a GPU instead of a CPU.
+---> You can get a GPU for free at Google Colab, but you'll have time limitation.
+---> Ask ChatGPT how to use it.
+After that, you should create a cuda enviroment at Anaconda Shell.
+
+If it still confuse (and probably stills) watch "Create a Large Language Model from Sracth" at FreeCodeCamp.
+
